@@ -1,0 +1,117 @@
+body, html {
+    height: 100%;
+    background-color: white;
+}
+
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://static-ssl.businessinsider.com/image/5474dccceab8ea7b13222db7-1200-800/drone%20strike%20rubble%20yemen.jpg");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text  {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: 'Special Elite', cursive;
+  font-size: 20px;
+}
+
+.section-one, .section-two, .col, .section-three, .section-four h3, p {
+  text-align: left;
+  color: black;
+  font-family:'EB Garamond', serif;
+}
+
+.section-one, .section-two, .col, .section-three, .section-four h3 {
+  color: #A80808;
+  text-align: center;
+}
+
+.stats, .line-chart, .map-chart {
+  margin-right: 70px;
+  margin-left: 70px;
+}
+
+.section-one, .section-two, .col, .section-three, .section-four {
+  margin-right: 50px;
+  margin-left: 50px;
+  line-height: 25px;
+}
+
+.chart-header, .stats-header h1 {
+  color: #F4760A;
+  text-align: left;
+  margin-right: 100px;
+  margin-left: 100px;
+  padding-bottom: 5px;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+}
+
+.card-title {
+  color: #A80808;
+  font-family: 'Special Elite', cursive;
+}
+
+.footerr p {
+  color: gray;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.line-chart, .stats {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.bold p {
+  font-style: italic;
+  text-align: center;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+  padding-bottom: 30px;
+}
+
+.twitter-tweet {
+  padding-left: 40px;
+  padding-top: 110px;
+}
+
+.col {
+  padding-right: 100px;
+}
+
+.section-three {
+  padding-top: 40px;
+}
+
+.section-one {
+  padding-top: 20px;
+}
+
+.quote {
+  padding-left: 20px;
+  padding-top: 40px;
+}
+
+.quote p {
+  font-family: 'JetBrains Mono', monospace;
+  color: #A80808;
+}
+
+.card-group {
+  padding-top: 20px;
+}
