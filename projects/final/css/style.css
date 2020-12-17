@@ -29,6 +29,7 @@ body, html {
   font-family:'EB Garamond', serif;
 }
 
+
 .section-one, .section-two, .col, .section-three, .section-four h3 {
   color: #A80808;
   text-align: center;
@@ -91,7 +92,7 @@ body, html {
 }
 
 .col {
-  padding-right: 100px;
+  padding-right: 160px;
 }
 
 .section-three {
